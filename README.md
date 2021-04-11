@@ -1,4 +1,4 @@
-# CS_405_Computer_Graphics
+# CS-405-Computer-Graphics
 
 CS 405 Computer Graphics course offered by "Selim Balcısoy" in Fall 2020-2021 term at "Sabancı University".
 The course consists of three main projects. Two 3D projects and one visualization project.

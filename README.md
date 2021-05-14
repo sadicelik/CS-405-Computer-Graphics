@@ -6,3 +6,6 @@ You can reach specified folders above.
 
 * __3D Projects__\
 OpenGL version 3.3 was used with GLM, GLFW and GLAD libraries in VS 2019 IDE.
+
+* __Data Visualization Project__\
+Dash/Ploty framework used with Pytohn3. NYC-2017 Yellow Taxi data was used for analysis.

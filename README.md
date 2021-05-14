@@ -9,4 +9,5 @@ OpenGL version 3.3 was used with GLM, GLFW and GLAD libraries in VS 2019 IDE.
 
 * __Data Visualization Project__\
 Dash/Plotly framework used with Python 3. NYC-2017 Yellow Taxi data was used for analysis.\
-Download NYC-Taxi data with the instructions given in sadicelik_Celik_Sadi_dash_app.py
+Download NYC-Taxi data with the instructions given in sadicelik_Celik_Sadi_dash_app.py\
+Run sadicelik_Celik_Sadi_dash_app.py file in dash-app-sadicelik and go to http://127.0.0.1:8050/ in your browser.
